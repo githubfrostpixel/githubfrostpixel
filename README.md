@@ -1,4 +1,5 @@
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Fullfilled%20people%20are%20just%20urban%20legend&theme=nord&type=horizontal)](https://github.com/PiyushSuthar/github-readme-quotes)
+
 ###
 
 <h2 align="left">About me</h2>
