@@ -1,3 +1,10 @@
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 31/01/2017<br>📚 I'm currently learning German<br>🎯 Goals: Enjoy life to the fullest<br>🎲 Fun fact: I love putting random in my algorithm</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bạch-ngọc-minh-châu-941437311/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bachngocminhchau@gmail.com) 
