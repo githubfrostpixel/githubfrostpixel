@@ -1,12 +1,11 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Fullfilled%20people%20are%20just%20urban%20legend&theme=nord&type=horizontal)](https://github.com/PiyushSuthar/github-readme-quotes)
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Fullfilled%20people%20are%20just%20urban%20legend&author=Shiro&theme=nord&type=horizontal)](https://github.com/PiyushSuthar/github-readme-quotes)
 ###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 31/01/2017<br>📚 I'm currently learning German<br>🎯 Goals: Enjoy life to the fullest<br>🎲 Fun fact: I love putting random in my algorithm</p>
+<p align="left">✨ Creating bugs since 31/01/2001<br>📚 I'm currently learning German<br>🎯 Goals: Enjoy life to the fullest<br>🎲 Fun fact: I love putting random in my algorithm</p>
 
 ###
 [![LeetCode Stats](https://leetcard.jacoblin.cool/githubfrostpixel?theme=nord&font=Roboto&ext=contest)](https://leetcode.com/githubfrostpixel/)
