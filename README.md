@@ -11,9 +11,9 @@
 </p>
 
 ---
-
+<p align="center">
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Fullfilled%20people%20are%20just%20urban%20legend&author=Shiro&theme=nord&type=horizontal)](https://github.com/PiyushSuthar/github-readme-quotes)
-
+</p>
 ---
 
 ## About Me
@@ -75,9 +75,9 @@
 ---
 
 ## LeetCode
-
+<p align="center">
 [![LeetCode Stats](https://leetcard.jacoblin.cool/githubfrostpixel?theme=nord&font=Roboto&ext=contest)](https://leetcode.com/githubfrostpixel/)
-
+</p>
 ---
 
 ## GitHub Stats
